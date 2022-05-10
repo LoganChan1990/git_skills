@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T03:09:38.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="9nwRy-3RPeyeA2qmAzwX" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T03:36:16.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GXdnCAIm28UEiZ6A6xlC" version="18.0.2" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="815" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PhdI-ZwpvNUuvoCu_mVK-92" value="张三" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="370" y="120" width="100" height="370" as="geometry" />
+          <mxGeometry x="370" y="120" width="100" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PhdI-ZwpvNUuvoCu_mVK-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF6666;" parent="PhdI-ZwpvNUuvoCu_mVK-92" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="aH_JyqXkreU-4WJA2Xy5-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF6666;" vertex="1" parent="PhdI-ZwpvNUuvoCu_mVK-92">
           <mxGeometry x="45" y="180" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-2" value="比对" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="aH_JyqXkreU-4WJA2Xy5-1" parent="PhdI-ZwpvNUuvoCu_mVK-92">
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-2" value="比对，是我的钥匙" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="aH_JyqXkreU-4WJA2Xy5-1" parent="PhdI-ZwpvNUuvoCu_mVK-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="45" y="160" as="sourcePoint" />
             <Array as="points">
@@ -27,31 +27,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF6666;" vertex="1" parent="PhdI-ZwpvNUuvoCu_mVK-92">
-          <mxGeometry x="45" y="270" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-8" value="比对" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="aH_JyqXkreU-4WJA2Xy5-7" parent="PhdI-ZwpvNUuvoCu_mVK-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="250" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-9" value="盒子里的第3把钥匙是我的，谢谢" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.159;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PhdI-ZwpvNUuvoCu_mVK-92">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="55" y="299.5" as="sourcePoint" />
-            <mxPoint x="421.5899999999999" y="299.95000000000005" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="295" y="300.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PhdI-ZwpvNUuvoCu_mVK-94" value="李四" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="750" y="120" width="100" height="370" as="geometry" />
+          <mxGeometry x="750" y="120" width="100" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PhdI-ZwpvNUuvoCu_mVK-101" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#97D077;" parent="PhdI-ZwpvNUuvoCu_mVK-94" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="280" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PhdI-ZwpvNUuvoCu_mVK-104" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="395" y="30" width="30" height="60" as="geometry" />
@@ -68,25 +48,66 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-4" value="这把钥匙不是我的，把盒子里所有的钥匙都给我吧" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.159;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="425" y="320" as="sourcePoint" />
-            <mxPoint x="791.5900000000001" y="320.45000000000005" as="targetPoint" />
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-12" value="张三" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF6666;" vertex="1" parent="aH_JyqXkreU-4WJA2Xy5-12">
+          <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-14" value="您好，我手里正好有一把，看看是不是您的？" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="aH_JyqXkreU-4WJA2Xy5-12" source="aH_JyqXkreU-4WJA2Xy5-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="120" as="sourcePoint" />
+            <mxPoint x="60" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF6666;" vertex="1" parent="aH_JyqXkreU-4WJA2Xy5-12">
+          <mxGeometry x="45" y="180" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-16" value="比对，不是我的" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="aH_JyqXkreU-4WJA2Xy5-12" target="aH_JyqXkreU-4WJA2Xy5-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="665" y="321" />
+              <mxPoint x="75" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-6" value="好的，都给你" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="PhdI-ZwpvNUuvoCu_mVK-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="350" as="sourcePoint" />
-            <mxPoint x="710" y="350" as="targetPoint" />
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-17" value="李四" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="120" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#97D077;" vertex="1" parent="aH_JyqXkreU-4WJA2Xy5-17">
+          <mxGeometry x="45" y="70" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-19" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="945" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-21" value="您好，我上次可能在你这里寄存了一把钥匙" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.159;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="976" y="199" as="sourcePoint" />
+            <mxPoint x="1342.5900000000001" y="199.45000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1216" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aH_JyqXkreU-4WJA2Xy5-10" value="好的，收到" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="PhdI-ZwpvNUuvoCu_mVK-92">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="450" as="sourcePoint" />
-            <mxPoint x="710" y="450" as="targetPoint" />
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-24" value="让我们开始愉快的聊天吧" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.159;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="425" y="330" as="sourcePoint" />
+            <mxPoint x="791.5900000000001" y="330.45000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH_JyqXkreU-4WJA2Xy5-25" value="让我们开始愉快的通信吧" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.159;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="975" y="330" as="sourcePoint" />
+            <mxPoint x="1341.5900000000001" y="330.45000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1215" y="331" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
